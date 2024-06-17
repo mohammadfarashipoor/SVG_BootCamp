@@ -1,6 +1,7 @@
  
 const svgFiles = [
         "add.svg",
+ "accept.svg",
         "archive.svg",
         "arrow-border.svg",
         "arrow-bottom.svg",
